@@ -98,6 +98,6 @@ $State$Nice$Lead$Thread$VMLPages$Foreground
   
   l    is multi-threaded (using CLONE_THREAD, like NPTL pthreads do)
   
-  +    is in the foreground process group
+  "+"    is in the foreground process group
 
 Пример вывода скрипта показан в файле ps.txt
